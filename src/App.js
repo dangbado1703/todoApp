@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowerRouter as Router, Routes, Route } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 import React, { useState, useEffect } from 'react';
 import Header from './Components/Header/Header';
 import ContactList from './Components/Body/ContactList/ContactList';
